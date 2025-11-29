@@ -1330,7 +1330,7 @@ melhor que banir livros!]
 
 ==== Uma máquina de bebida invariante
 
-Vamos((("variance", "invariant types"))) tentar modelar o cenário da cantina com uma classe genérica `BeverageDispenser`, que pode ser parametrizada com o tipo de bebida..
+Vamos((("variance", "invariant types"))) tentar modelar o cenário da cantina com uma classe genérica `BeverageDispenser`, que pode ser parametrizada com o tipo de bebida.
 Veja o <<invariant_dispenser_types_ex>>.
 
 [[invariant_dispenser_types_ex]]
